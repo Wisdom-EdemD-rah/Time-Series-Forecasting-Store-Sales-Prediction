@@ -428,11 +428,11 @@ This visualization aids in identifying seasonal sales patterns and planning for 
 #### Insights
 This dashboard provides a clear and concise view of sales performance across different dimensions. It highlights key areas where sales are strong, identifies the impact of promotions and holidays on sales, and reveals seasonal trends. Stakeholders can use these insights for strategic planning, resource allocation, and maximizing sales opportunities.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
-Find the Power BI dashboard [here] (https://app.powerbi.com/groups/me/reports/3286f2e8-f845-40a4-b4c8-7102fd73f4ef/ce6c51bf9d35cd567039?experience=power-bi)
+Find the Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/3286f2e8-f845-40a4-b4c8-7102fd73f4ef/ce6c51bf9d35cd567039?experience=power-bi)
 
-#### SETUP
+#### SETUP
 It is recommended to have a Jupyter Noteotebook or any other standard code editor on your local machine.
 Install the required packages locally to your computer.
 
@@ -481,11 +481,10 @@ The text file will allow you to import these libraries and packages into the pyt
 
 - pip install -r requirements.txt
 
-- You're now ready to dive into this exciting data journey with us!
+- You're now ready to dive into this exciting data journey with me!
 
 
-
-🤝 #### Contributing
+ #### Contributing 🤝
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
@@ -498,7 +497,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
 
-Author 👨‍💼
+#### Author 👨‍💼
 Name: Wisdom Edem Drah
 Article Link: [here]()
 Github: [here](https://github.com/Wisdom-EdemD-rah)
