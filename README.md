@@ -499,7 +499,9 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 #### Author 👨‍💼
 Name: Wisdom Edem Drah
+
 Article Link: [here]()
+
 Github: [here](https://github.com/Wisdom-EdemD-rah)
 
 #### Acknowledgments 🙏
